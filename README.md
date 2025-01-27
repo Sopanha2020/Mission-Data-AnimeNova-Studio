@@ -1,8 +1,8 @@
 # AnimeNova Studio
+Un studio d'animation avant-gardiste consacré à la production de contenus uniques et passionnants pour les fans d'animation à l'échelle mondiale. 
+Notre but est de séduire et de retenir un public mondial en offrant des récits singuliers et des images de haute qualité.
 
-En proposant des histoires uniques et des visuels de haute qualité, notre objectif est de captiver et de fidéliser une audience internationale.
-
-## 🎯 Objectifs du ce projet:
+## 🎯 Objectifs du ce mission:
 
   ✅ Effectuer une analyse basée sur les données <br>
   ✅ Présenter des visualisations pertinentes <br>
