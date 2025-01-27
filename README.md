@@ -20,3 +20,9 @@ Notre but est de séduire et de retenir un public mondial en offrant des récits
   - Taux de visionnage (7 jours) et taux de satisfaction (% de critiques positives).
 
 ## 📊 Dashboards : 
+
+![Image](https://github.com/user-attachments/assets/b622c38d-8e57-45ce-baa7-99116ce901a0)
+
+![Image](https://github.com/user-attachments/assets/4578581f-4f77-4b3a-b657-752802fc2151)
+
+![Image](https://github.com/user-attachments/assets/8b0d69bb-9df3-4e36-a445-68c082e77359)
