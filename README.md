@@ -1,7 +1,6 @@
 # AnimeNova Studio
 
-C'est l'opportunité d'utiliser toutes nos connaissances sur un nouveau jeu de données.
-Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoudre au mieux. Nous vous faisons confiance : nous allons faire une très bonne analyse.
+En proposant des histoires uniques et des visuels de haute qualité, notre objectif est de captiver et de fidéliser une audience internationale.
 
 ## 🎯 Objectifs du ce projet:
 
