@@ -16,7 +16,7 @@ Dans nos futurs métiers, nous avons un sujet business, à essayer de le résoud
 
 ## 🧠 KPIs Principals
 
-  - Moyenne recommandée basée sur l’analyse des données.
+  - Moyenne durée idéale par arc narratif recommandée basée sur l’analyse des données.
   - Audience cible par type de plateforme.
   - Taux de visionnage (7 jours) et taux de satisfaction (% de critiquespositives).
 
