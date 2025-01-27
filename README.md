@@ -17,6 +17,6 @@ En proposant des histoires uniques et des visuels de haute qualité, notre objec
 
   - Moyenne durée idéale par arc narratif recommandée basée sur l’analyse des données.
   - Audience cible par type de plateforme.
-  - Taux de visionnage (7 jours) et taux de satisfaction (% de critiquespositives).
+  - Taux de visionnage (7 jours) et taux de satisfaction (% de critiques positives).
 
 ## 📊 Dashboards : 
