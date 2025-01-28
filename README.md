@@ -21,7 +21,7 @@ Notre but est de séduire et de retenir un public mondial en offrant des récits
 
 ## 📊 Dashboards: 
 
-![Image](https://github.com/user-attachments/assets/b622c38d-8e57-45ce-baa7-99116ce901a0)
+![Image](https://github.com/user-attachments/assets/f12c3460-7fcd-49e1-a176-280eb934de64)
 
 ![Image](https://github.com/user-attachments/assets/4578581f-4f77-4b3a-b657-752802fc2151)
 
