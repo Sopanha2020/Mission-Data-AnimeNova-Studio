@@ -8,7 +8,7 @@ Notre but est de séduire et de retenir un public mondial en offrant des récits
   ✅ Présenter des visualisations pertinentes <br>
   ✅ Proposer des conseils pour aider à la prise de décision
 
-## 🧰 Outils Principaux : 
+## 🧰 Outils Principaux: 
 
 - Power BI
 - Canvas
