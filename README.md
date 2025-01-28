@@ -19,7 +19,7 @@ Notre but est de séduire et de retenir un public mondial en offrant des récits
   - Audience cible par type de plateforme.
   - Taux de visionnage (7 jours) et taux de satisfaction (% de critiques positives).
 
-## 📊 Dashboards : 
+## 📊 Dashboards: 
 
 ![Image](https://github.com/user-attachments/assets/b622c38d-8e57-45ce-baa7-99116ce901a0)
 
