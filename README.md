@@ -13,7 +13,7 @@ Notre but est de séduire et de retenir un public mondial en offrant des récits
 - Power BI
 - Canvas
 
-## 🧠 KPIs Principals
+## 🧠 KPIs Principaux:
 
   - Moyenne durée idéale par arc narratif recommandée basée sur l’analyse des données.
   - Audience cible par type de plateforme.
