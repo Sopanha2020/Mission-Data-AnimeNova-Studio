@@ -1,4 +1,4 @@
-# Mission-Data-AnimeNova-Studio
+# Mission Data - AnimeNova Studio
 AnimeNova Studio est un studio d'animation avant-gardiste consacré à la production de contenus uniques et passionnants pour les fans d'animation à l'échelle mondiale. 
 Notre but est de séduire et de retenir un public mondial en offrant des récits singuliers et des images de haute qualité.
 
@@ -11,6 +11,7 @@ Notre but est de séduire et de retenir un public mondial en offrant des récits
 ## 🧰 Outils Principaux: 
 
 - Power BI
+- Python
 - Canvas
 
 ## 🧠 KPIs Principaux:
